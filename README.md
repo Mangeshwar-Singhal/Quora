@@ -7,7 +7,7 @@ Group Members -
   3. Venkat Kulkarni
   4. Mangeshwar Singhal
 
-Comments has been properly added to each functionality.
+Comments has been added to each method. Please refer to those comments to get the insight about method functionality.
 
 For Local Setup please use the following commands in given order -
   1.  Change the database properties in "localhost.properties" file at path "quora-db/src/main/resources/config/".
